@@ -1,0 +1,1055 @@
+2021-09-28 1632783621.4426768: 	Code execution initialised
+===============================
+
+
+2021-09-28 1632783621.4426768: 	Initializing path and creating folders
+
+
+==============================================================
+==============================================================
+2021-09-28 1632783621.4426768: 	Current Query: Foundries 
+==============================================================
+==============================================================
+
+
+=======================================
+=======================================
+2021-09-28 1632783621.4426768: 	(Foundries) Current State: Gujarat 
+=======================================
+=======================================
+
+
+=======================================
+2021-09-28 1632783621.4426768: 	(Foundries>Gujarat) Current District: Ahmedabad 
+=======================================
+
+2021-09-28 1632783622.5945842: 	(Foundries>Gujarat>Ahmedabad)Initialising chrome browser with head
+2021-09-28 1632783627.5887156: 	(Foundries>Gujarat>Ahmedabad) PAGE: 1 
+-----------------------
+
+2021-09-28 1632783633.8837738: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 0 
+2021-09-28 1632783635.626163: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 1 
+2021-09-28 1632783638.6445084: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 2 
+2021-09-28 1632783641.6134348: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 3 
+2021-09-28 1632783644.6029904: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 4 
+2021-09-28 1632783646.3085682: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 5 
+2021-09-28 1632783649.3394141: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 6 
+2021-09-28 1632783651.0513785: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 7 
+2021-09-28 1632783654.0363295: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 8 
+2021-09-28 1632783656.9913278: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 9 
+2021-09-28 1632783660.001786: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 10 
+2021-09-28 1632783663.516477: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 11 
+2021-09-28 1632783666.4835746: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 12 
+2021-09-28 1632783670.0395021: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 13 
+2021-09-28 1632783673.5054853: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 14 
+2021-09-28 1632783676.54681: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 15 
+2021-09-28 1632783679.5229948: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 16 
+2021-09-28 1632783682.5145485: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 17 
+2021-09-28 1632783684.2215037: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 18 
+2021-09-28 1632783687.1317353: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 19 
+2021-09-28 1632783687.4309332: 	(Foundries>Gujarat>Ahmedabad) PAGE: 2 
+-----------------------
+
+2021-09-28 1632783721.6613262: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 20 
+2021-09-28 1632783725.149718: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 21 
+2021-09-28 1632783728.208652: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 22 
+2021-09-28 1632783729.884458: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 23 
+2021-09-28 1632783732.9166486: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 24 
+2021-09-28 1632783734.6412835: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 25 
+2021-09-28 1632783736.395389: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 26 
+2021-09-28 1632783739.3348866: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 27 
+2021-09-28 1632783742.3871558: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 28 
+2021-09-28 1632783744.0860593: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 29 
+2021-09-28 1632783744.3733912: 	(Foundries>Gujarat>Ahmedabad) PAGE: 3 
+-----------------------
+
+2021-09-28 1632783750.6165552: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 30 
+2021-09-28 1632783752.3322914: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 31 
+2021-09-28 1632783755.3373463: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 32 
+2021-09-28 1632783758.344953: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 33 
+2021-09-28 1632783760.0572207: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 34 
+2021-09-28 1632783763.1351767: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 35 
+2021-09-28 1632783764.844462: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 36 
+2021-09-28 1632783768.4051986: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 37 
+2021-09-28 1632783770.1037614: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 38 
+2021-09-28 1632783773.098581: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 39 
+2021-09-28 1632783776.1474261: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 40 
+2021-09-28 1632783779.1388044: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 41 
+2021-09-28 1632783780.92171: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 42 
+2021-09-28 1632783783.8979208: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 43 
+2021-09-28 1632783786.963296: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 44 
+2021-09-28 1632783788.658353: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 45 
+2021-09-28 1632783792.32628: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 46 
+2021-09-28 1632783795.3163943: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 47 
+2021-09-28 1632783797.0242858: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 48 
+2021-09-28 1632783800.0140326: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 49 
+2021-09-28 1632783800.3501525: 	(Foundries>Gujarat>Ahmedabad) PAGE: 4 
+-----------------------
+
+2021-09-28 1632783806.5766933: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 50 
+2021-09-28 1632783808.3297174: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 51 
+2021-09-28 1632783811.3281894: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 52 
+2021-09-28 1632783814.381851: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 53 
+2021-09-28 1632783817.314691: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 54 
+2021-09-28 1632783820.3302093: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 55 
+2021-09-28 1632783822.0482166: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 56 
+2021-09-28 1632783825.0191262: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 57 
+2021-09-28 1632783828.025378: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 58 
+2021-09-28 1632783831.0430365: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 59 
+2021-09-28 1632783832.740874: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 60 
+2021-09-28 1632783836.282602: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 61 
+2021-09-28 1632783839.3178124: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 62 
+2021-09-28 1632783842.2722955: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 63 
+2021-09-28 1632783845.3135448: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 64 
+2021-09-28 1632783848.3987827: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 65 
+2021-09-28 1632783851.9519868: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 66 
+2021-09-28 1632783853.705121: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 67 
+2021-09-28 1632783855.3982992: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 68 
+2021-09-28 1632783857.1842349: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 69 
+2021-09-28 1632783857.4714663: 	(Foundries>Gujarat>Ahmedabad) PAGE: 5 
+-----------------------
+
+2021-09-28 1632783863.646731: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 70 
+2021-09-28 1632783866.67291: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 71 
+2021-09-28 1632783871.4098642: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 72 
+2021-09-28 1632783874.5316203: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 73 
+2021-09-28 1632783877.4919465: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 74 
+2021-09-28 1632783880.5808258: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 75 
+2021-09-28 1632783884.0061476: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 76 
+2021-09-28 1632783885.669579: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 77 
+2021-09-28 1632783888.648383: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 78 
+2021-09-28 1632783891.6984334: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 79 
+2021-09-28 1632783895.223009: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 80 
+2021-09-28 1632783904.8706799: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 81 
+2021-09-28 1632783906.6064303: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 82 
+2021-09-28 1632783909.6159172: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 83 
+2021-09-28 1632783912.6056354: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 84 
+2021-09-28 1632783912.9507232: 	(Foundries>Gujarat>Ahmedabad) PAGE: 6 
+-----------------------
+
+2021-09-28 1632783919.1923907: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 85 
+2021-09-28 1632783922.2881355: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 86 
+2021-09-28 1632783924.0458763: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 87 
+2021-09-28 1632783925.8276777: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 88 
+2021-09-28 1632783928.8370838: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 89 
+2021-09-28 1632783930.5758975: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 90 
+2021-09-28 1632783932.3113167: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 91 
+2021-09-28 1632783934.0502455: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 92 
+2021-09-28 1632783935.834538: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 93 
+2021-09-28 1632783941.8411276: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 94 
+2021-09-28 1632783945.4358568: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 95 
+2021-09-28 1632783947.2525876: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 96 
+2021-09-28 1632783948.9071708: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 97 
+2021-09-28 1632783951.9591048: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 98 
+2021-09-28 1632783955.027734: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 99 
+2021-09-28 1632783958.06051: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 100 
+2021-09-28 1632783961.0947297: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 101 
+2021-09-28 1632783962.8293395: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 102 
+2021-09-28 1632783964.6313317: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 103 
+2021-09-28 1632783964.941503: 	(Foundries>Gujarat>Ahmedabad) PAGE: 7 
+-----------------------
+
+2021-09-28 1632783971.0491643: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 104 
+2021-09-28 1632783974.6666193: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 105 
+2021-09-28 1632783977.6941319: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 106 
+2021-09-28 1632783979.4332767: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 107 
+2021-09-28 1632783981.1030774: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 108 
+2021-09-28 1632783984.1366317: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 109 
+2021-09-28 1632783987.1453786: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 110 
+2021-09-28 1632783990.2327876: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 111 
+2021-09-28 1632783993.2944577: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 112 
+2021-09-28 1632783996.240427: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 113 
+2021-09-28 1632783999.2347536: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 114 
+2021-09-28 1632784002.2539527: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 115 
+2021-09-28 1632784005.1786637: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 116 
+2021-09-28 1632784008.1826053: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 117 
+2021-09-28 1632784011.7097418: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 118 
+2021-09-28 1632784014.6455386: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 119 
+2021-09-28 1632784017.6206036: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 120 
+2021-09-28 1632784019.4049613: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 121 
+2021-09-28 1632784022.315275: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 122 
+2021-09-28 1632784025.279227: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 123 
+2021-09-28 1632784025.5435207: 	(Foundries>Gujarat>Ahmedabad) PAGE: 8 
+-----------------------
+
+2021-09-28 1632784032.2489698: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 124 
+2021-09-28 1632784034.0810957: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 125 
+2021-09-28 1632784037.6015916: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 126 
+2021-09-28 1632784040.7146053: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 127 
+2021-09-28 1632784042.4464283: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 128 
+2021-09-28 1632784045.9662907: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 129 
+2021-09-28 1632784048.986089: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 130 
+2021-09-28 1632784052.0047429: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 131 
+2021-09-28 1632784056.8169198: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 132 
+2021-09-28 1632784058.4764602: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 133 
+2021-09-28 1632784060.2605: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 134 
+2021-09-28 1632784063.8087404: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 135 
+2021-09-28 1632784065.5171254: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 136 
+2021-09-28 1632784068.634102: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 137 
+2021-09-28 1632784073.4184468: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 138 
+2021-09-28 1632784075.1410263: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 139 
+2021-09-28 1632784078.1936085: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 140 
+2021-09-28 1632784078.5147493: 	(Foundries>Gujarat>Ahmedabad) PAGE: 9 
+-----------------------
+
+2021-09-28 1632784084.78657: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 141 
+2021-09-28 1632784086.4996972: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 142 
+2021-09-28 1632784088.2780218: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 143 
+2021-09-28 1632784094.2767196: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 144 
+2021-09-28 1632784097.247135: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 145 
+2021-09-28 1632784100.8565784: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 146 
+2021-09-28 1632784102.6523886: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 147 
+2021-09-28 1632784105.6449063: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 148 
+2021-09-28 1632784108.620035: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 149 
+2021-09-28 1632784111.644648: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 150 
+2021-09-28 1632784117.8210948: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 151 
+2021-09-28 1632784119.5803325: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 152 
+2021-09-28 1632784121.3818176: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 153 
+2021-09-28 1632784124.3708878: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 154 
+2021-09-28 1632784127.4275508: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 155 
+2021-09-28 1632784130.4461818: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 156 
+2021-09-28 1632784133.499633: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 157 
+2021-09-28 1632784136.5891268: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 158 
+2021-09-28 1632784136.8863316: 	(Foundries>Gujarat>Ahmedabad) PAGE: 10 
+-----------------------
+
+2021-09-28 1632784141.8125596: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 159 
+2021-09-28 1632784145.4014604: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 160 
+2021-09-28 1632784147.0583043: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 161 
+2021-09-28 1632784149.9918947: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 162 
+2021-09-28 1632784151.655026: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 163 
+2021-09-28 1632784154.7110848: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 164 
+2021-09-28 1632784157.6794791: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 165 
+2021-09-28 1632784160.6645052: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 166 
+2021-09-28 1632784162.3768077: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 167 
+2021-09-28 1632784165.341468: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 168 
+2021-09-28 1632784168.371127: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 169 
+2021-09-28 1632784170.1291726: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 170 
+2021-09-28 1632784171.8435643: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 171 
+2021-09-28 1632784176.730507: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 172 
+2021-09-28 1632784179.79911: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 173 
+2021-09-28 1632784181.5244932: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 174 
+2021-09-28 1632784184.522984: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 175 
+2021-09-28 1632784187.5142007: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 176 
+2021-09-28 1632784190.5084617: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 177 
+2021-09-28 1632784190.8017364: 	(Foundries>Gujarat>Ahmedabad) PAGE: 11 
+-----------------------
+
+2021-09-28 1632784196.9546702: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 178 
+2021-09-28 1632784199.9375148: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 179 
+2021-09-28 1632784201.662528: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 180 
+2021-09-28 1632784204.759729: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 181 
+2021-09-28 1632784206.471715: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 182 
+2021-09-28 1632784208.1558292: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 183 
+2021-09-28 1632784211.1301155: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 184 
+2021-09-28 1632784212.8512378: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 185 
+2021-09-28 1632784215.9237692: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 186 
+2021-09-28 1632784218.9315755: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 187 
+2021-09-28 1632784221.9778943: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 188 
+2021-09-28 1632784223.7035701: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 189 
+2021-09-28 1632784225.3906503: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 190 
+2021-09-28 1632784228.4418612: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 191 
+2021-09-28 1632784230.2261045: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 192 
+2021-09-28 1632784231.8852487: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 193 
+2021-09-28 1632784234.9225829: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 194 
+2021-09-28 1632784236.5910778: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 195 
+2021-09-28 1632784239.635638: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 196 
+2021-09-28 1632784241.380646: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 197 
+2021-09-28 1632784241.6709473: 	(Foundries>Gujarat>Ahmedabad) PAGE: 12 
+-----------------------
+
+2021-09-28 1632784247.9680243: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 198 
+2021-09-28 1632784251.032236: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 199 
+2021-09-28 1632784254.0894299: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 200 
+2021-09-28 1632784255.9628606: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 201 
+2021-09-28 1632784257.812086: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 202 
+2021-09-28 1632784259.5851755: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 203 
+2021-09-28 1632784261.338153: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 204 
+2021-09-28 1632784264.3559194: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 205 
+2021-09-28 1632784266.096825: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 206 
+2021-09-28 1632784269.2237883: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 207 
+2021-09-28 1632784272.310538: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 208 
+2021-09-28 1632784275.3185527: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 209 
+2021-09-28 1632784278.3304665: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 210 
+2021-09-28 1632784281.3879387: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 211 
+2021-09-28 1632784283.129216: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 212 
+2021-09-28 1632784284.9492872: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 213 
+2021-09-28 1632784287.9694963: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 214 
+2021-09-28 1632784290.9717717: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 215 
+2021-09-28 1632784292.736139: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 216 
+2021-09-28 1632784294.5003085: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 217 
+2021-09-28 1632784294.9342062: 	(Foundries>Gujarat>Ahmedabad) PAGE: 13 
+-----------------------
+
+2021-09-28 1632784299.8097868: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 218 
+2021-09-28 1632784301.5006325: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 219 
+2021-09-28 1632784303.1482697: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 220 
+2021-09-28 1632784306.0868473: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 221 
+2021-09-28 1632784308.942407: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 222 
+2021-09-28 1632784311.7830517: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 223 
+2021-09-28 1632784313.4847946: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 224 
+2021-09-28 1632784318.6444752: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 225 
+2021-09-28 1632784321.6201975: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 226 
+2021-09-28 1632784333.5610104: 	(Foundries>Gujarat>Ahmedabad) Extracted number: 227 
+
+--------------
+2021-09-28 1632784333.633845: 	(Foundries>Gujarat>Ahmedabad) Foundries added in Ahmedabad Gujarat 
+--------------
+
+
+=======================================
+2021-09-28 1632784333.6348138: 	(Foundries>Gujarat) EXTRACTED Foundries IN AHMEDABAD 
+2021-09-28 1632784333.6348138: 	(Foundries>Gujarat) Total extracted foundries: -1 
+2021-09-28 1632784333.6348138: 	(Foundries>Gujarat) Time taken: 712.192137002945 seconds
+=======================================
+
+
+=======================================
+2021-09-28 1632783621.4426768: 	(Foundries>Gujarat) Current District: Amreli 
+=======================================
+
+2021-09-28 1632784339.3440769: 	(Foundries>Gujarat>Amreli)Initialising chrome browser with head
+2021-09-28 1632784343.899947: 	(Foundries>Gujarat>Amreli) PAGE: 1 
+-----------------------
+
+2021-09-28 1632784348.9406083: 	(Foundries>Gujarat>Amreli) Extracted number: 0 
+2021-09-28 1632784350.7078733: 	(Foundries>Gujarat>Amreli) Extracted number: 1 
+2021-09-28 1632784352.5082881: 	(Foundries>Gujarat>Amreli) Extracted number: 2 
+2021-09-28 1632784354.2470949: 	(Foundries>Gujarat>Amreli) Extracted number: 3 
+2021-09-28 1632784357.2641532: 	(Foundries>Gujarat>Amreli) Extracted number: 4 
+2021-09-28 1632784358.9935665: 	(Foundries>Gujarat>Amreli) Extracted number: 5 
+2021-09-28 1632784362.047798: 	(Foundries>Gujarat>Amreli) Extracted number: 6 
+2021-09-28 1632784365.0473464: 	(Foundries>Gujarat>Amreli) Extracted number: 7 
+2021-09-28 1632784366.7215698: 	(Foundries>Gujarat>Amreli) Extracted number: 8 
+2021-09-28 1632784369.7543507: 	(Foundries>Gujarat>Amreli) Extracted number: 9 
+2021-09-28 1632784371.4766932: 	(Foundries>Gujarat>Amreli) Extracted number: 10 
+2021-09-28 1632784373.2023191: 	(Foundries>Gujarat>Amreli) Extracted number: 11 
+2021-09-28 1632784374.933458: 	(Foundries>Gujarat>Amreli) Extracted number: 12 
+2021-09-28 1632784377.973461: 	(Foundries>Gujarat>Amreli) Extracted number: 13 
+2021-09-28 1632784381.0263724: 	(Foundries>Gujarat>Amreli) Extracted number: 14 
+2021-09-28 1632784382.7752726: 	(Foundries>Gujarat>Amreli) Extracted number: 15 
+2021-09-28 1632784384.51532: 	(Foundries>Gujarat>Amreli) Extracted number: 16 
+2021-09-28 1632784387.5073357: 	(Foundries>Gujarat>Amreli) Extracted number: 17 
+2021-09-28 1632784389.2405906: 	(Foundries>Gujarat>Amreli) Extracted number: 18 
+2021-09-28 1632784390.9754884: 	(Foundries>Gujarat>Amreli) Extracted number: 19 
+2021-09-28 1632784391.2966688: 	(Foundries>Gujarat>Amreli) PAGE: 2 
+-----------------------
+
+2021-09-28 1632784416.5644162: 	(Foundries>Gujarat>Amreli) Extracted number: 20 
+2021-09-28 1632784418.2695696: 	(Foundries>Gujarat>Amreli) Extracted number: 21 
+2021-09-28 1632784420.1694684: 	(Foundries>Gujarat>Amreli) Extracted number: 22 
+2021-09-28 1632784423.2356908: 	(Foundries>Gujarat>Amreli) Extracted number: 23 
+2021-09-28 1632784424.945927: 	(Foundries>Gujarat>Amreli) Extracted number: 24 
+2021-09-28 1632784428.1162546: 	(Foundries>Gujarat>Amreli) Extracted number: 25 
+2021-09-28 1632784429.360468: 	(Foundries>Gujarat>Amreli) Extracted number: 26 
+2021-09-28 1632784431.137894: 	(Foundries>Gujarat>Amreli) Extracted number: 27 
+2021-09-28 1632784433.0428193: 	(Foundries>Gujarat>Amreli) Extracted number: 28 
+2021-09-28 1632784434.8576348: 	(Foundries>Gujarat>Amreli) Extracted number: 29 
+2021-09-28 1632784435.211689: 	(Foundries>Gujarat>Amreli) PAGE: 3 
+-----------------------
+
+2021-09-28 1632784440.1386116: 	(Foundries>Gujarat>Amreli) Extracted number: 30 
+2021-09-28 1632784443.2341375: 	(Foundries>Gujarat>Amreli) Extracted number: 31 
+2021-09-28 1632784446.288367: 	(Foundries>Gujarat>Amreli) Extracted number: 32 
+2021-09-28 1632784449.3065267: 	(Foundries>Gujarat>Amreli) Extracted number: 33 
+2021-09-28 1632784451.0262306: 	(Foundries>Gujarat>Amreli) Extracted number: 34 
+2021-09-28 1632784452.7918787: 	(Foundries>Gujarat>Amreli) Extracted number: 35 
+2021-09-28 1632784454.536001: 	(Foundries>Gujarat>Amreli) Extracted number: 36 
+2021-09-28 1632784457.539131: 	(Foundries>Gujarat>Amreli) Extracted number: 37 
+2021-09-28 1632784460.649673: 	(Foundries>Gujarat>Amreli) Extracted number: 38 
+2021-09-28 1632784462.3867946: 	(Foundries>Gujarat>Amreli) Extracted number: 39 
+2021-09-28 1632784466.015645: 	(Foundries>Gujarat>Amreli) Extracted number: 40 
+2021-09-28 1632784467.725839: 	(Foundries>Gujarat>Amreli) Extracted number: 41 
+2021-09-28 1632784469.4941049: 	(Foundries>Gujarat>Amreli) Extracted number: 42 
+2021-09-28 1632784472.5017786: 	(Foundries>Gujarat>Amreli) Extracted number: 43 
+2021-09-28 1632784474.2562244: 	(Foundries>Gujarat>Amreli) Extracted number: 44 
+2021-09-28 1632784476.0378714: 	(Foundries>Gujarat>Amreli) Extracted number: 45 
+2021-09-28 1632784479.077592: 	(Foundries>Gujarat>Amreli) Extracted number: 46 
+2021-09-28 1632784480.8496468: 	(Foundries>Gujarat>Amreli) Extracted number: 47 
+2021-09-28 1632784482.5877683: 	(Foundries>Gujarat>Amreli) Extracted number: 48 
+2021-09-28 1632784484.3666768: 	(Foundries>Gujarat>Amreli) Extracted number: 49 
+2021-09-28 1632784484.6907823: 	(Foundries>Gujarat>Amreli) PAGE: 4 
+-----------------------
+
+2021-09-28 1632784490.9047241: 	(Foundries>Gujarat>Amreli) Extracted number: 50 
+2021-09-28 1632784492.6647189: 	(Foundries>Gujarat>Amreli) Extracted number: 51 
+2021-09-28 1632784495.748095: 	(Foundries>Gujarat>Amreli) Extracted number: 52 
+2021-09-28 1632784498.8003702: 	(Foundries>Gujarat>Amreli) Extracted number: 53 
+2021-09-28 1632784500.5390108: 	(Foundries>Gujarat>Amreli) Extracted number: 54 
+2021-09-28 1632784502.3200443: 	(Foundries>Gujarat>Amreli) Extracted number: 55 
+2021-09-28 1632784504.130163: 	(Foundries>Gujarat>Amreli) Extracted number: 56 
+2021-09-28 1632784505.877991: 	(Foundries>Gujarat>Amreli) Extracted number: 57 
+2021-09-28 1632784507.629463: 	(Foundries>Gujarat>Amreli) Extracted number: 58 
+2021-09-28 1632784509.399866: 	(Foundries>Gujarat>Amreli) Extracted number: 59 
+2021-09-28 1632784511.173027: 	(Foundries>Gujarat>Amreli) Extracted number: 60 
+2021-09-28 1632784512.4238958: 	(Foundries>Gujarat>Amreli) Extracted number: 61 
+2021-09-28 1632784515.4691365: 	(Foundries>Gujarat>Amreli) Extracted number: 62 
+2021-09-28 1632784517.2064083: 	(Foundries>Gujarat>Amreli) Extracted number: 63 
+2021-09-28 1632784520.358728: 	(Foundries>Gujarat>Amreli) Extracted number: 64 
+2021-09-28 1632784522.1566515: 	(Foundries>Gujarat>Amreli) Extracted number: 65 
+2021-09-28 1632784525.1847646: 	(Foundries>Gujarat>Amreli) Extracted number: 66 
+2021-09-28 1632784526.9884348: 	(Foundries>Gujarat>Amreli) Extracted number: 67 
+2021-09-28 1632784530.0588017: 	(Foundries>Gujarat>Amreli) Extracted number: 68 
+2021-09-28 1632784530.4706998: 	(Foundries>Gujarat>Amreli) PAGE: 5 
+-----------------------
+
+2021-09-28 1632784535.3557124: 	(Foundries>Gujarat>Amreli) Extracted number: 69 
+2021-09-28 1632784537.1201384: 	(Foundries>Gujarat>Amreli) Extracted number: 70 
+2021-09-28 1632784538.9054046: 	(Foundries>Gujarat>Amreli) Extracted number: 71 
+2021-09-28 1632784541.9487374: 	(Foundries>Gujarat>Amreli) Extracted number: 72 
+2021-09-28 1632784543.6858678: 	(Foundries>Gujarat>Amreli) Extracted number: 73 
+2021-09-28 1632784545.4688127: 	(Foundries>Gujarat>Amreli) Extracted number: 74 
+2021-09-28 1632784548.5373588: 	(Foundries>Gujarat>Amreli) Extracted number: 75 
+2021-09-28 1632784550.3152857: 	(Foundries>Gujarat>Amreli) Extracted number: 76 
+2021-09-28 1632784553.3983643: 	(Foundries>Gujarat>Amreli) Extracted number: 77 
+2021-09-28 1632784555.148752: 	(Foundries>Gujarat>Amreli) Extracted number: 78 
+2021-09-28 1632784556.8553064: 	(Foundries>Gujarat>Amreli) Extracted number: 79 
+2021-09-28 1632784558.6233544: 	(Foundries>Gujarat>Amreli) Extracted number: 80 
+2021-09-28 1632784561.5996149: 	(Foundries>Gujarat>Amreli) Extracted number: 81 
+2021-09-28 1632784564.7546113: 	(Foundries>Gujarat>Amreli) Extracted number: 82 
+2021-09-28 1632784566.5251584: 	(Foundries>Gujarat>Amreli) Extracted number: 83 
+2021-09-28 1632784568.334803: 	(Foundries>Gujarat>Amreli) Extracted number: 84 
+2021-09-28 1632784571.3347957: 	(Foundries>Gujarat>Amreli) Extracted number: 85 
+2021-09-28 1632784574.4952831: 	(Foundries>Gujarat>Amreli) Extracted number: 86 
+2021-09-28 1632784576.2928472: 	(Foundries>Gujarat>Amreli) Extracted number: 87 
+2021-09-28 1632784578.045921: 	(Foundries>Gujarat>Amreli) Extracted number: 88 
+2021-09-28 1632784578.3701766: 	(Foundries>Gujarat>Amreli) PAGE: 6 
+-----------------------
+
+2021-09-28 1632784583.2587094: 	(Foundries>Gujarat>Amreli) Extracted number: 89 
+2021-09-28 1632784586.2667997: 	(Foundries>Gujarat>Amreli) Extracted number: 90 
+2021-09-28 1632784589.8749444: 	(Foundries>Gujarat>Amreli) Extracted number: 91 
+2021-09-28 1632784591.6070209: 	(Foundries>Gujarat>Amreli) Extracted number: 92 
+2021-09-28 1632784593.3617294: 	(Foundries>Gujarat>Amreli) Extracted number: 93 
+2021-09-28 1632784595.075881: 	(Foundries>Gujarat>Amreli) Extracted number: 94 
+2021-09-28 1632784596.3198276: 	(Foundries>Gujarat>Amreli) Extracted number: 95 
+2021-09-28 1632784599.352398: 	(Foundries>Gujarat>Amreli) Extracted number: 96 
+2021-09-28 1632784601.087872: 	(Foundries>Gujarat>Amreli) Extracted number: 97 
+2021-09-28 1632784602.8243015: 	(Foundries>Gujarat>Amreli) Extracted number: 98 
+2021-09-28 1632784605.8679519: 	(Foundries>Gujarat>Amreli) Extracted number: 99 
+2021-09-28 1632784607.6752596: 	(Foundries>Gujarat>Amreli) Extracted number: 100 
+2021-09-28 1632784609.4194741: 	(Foundries>Gujarat>Amreli) Extracted number: 101 
+2021-09-28 1632784611.1216521: 	(Foundries>Gujarat>Amreli) Extracted number: 102 
+2021-09-28 1632784614.1449668: 	(Foundries>Gujarat>Amreli) Extracted number: 103 
+2021-09-28 1632784615.866066: 	(Foundries>Gujarat>Amreli) Extracted number: 104 
+2021-09-28 1632784617.613785: 	(Foundries>Gujarat>Amreli) Extracted number: 105 
+2021-09-28 1632784620.711674: 	(Foundries>Gujarat>Amreli) Extracted number: 106 
+2021-09-28 1632784623.727231: 	(Foundries>Gujarat>Amreli) Extracted number: 107 
+2021-09-28 1632784626.8174007: 	(Foundries>Gujarat>Amreli) Extracted number: 108 
+2021-09-28 1632784627.1435595: 	(Foundries>Gujarat>Amreli) PAGE: 7 
+-----------------------
+
+2021-09-28 1632784632.1255913: 	(Foundries>Gujarat>Amreli) Extracted number: 109 
+2021-09-28 1632784633.9012284: 	(Foundries>Gujarat>Amreli) Extracted number: 110 
+2021-09-28 1632784635.6598377: 	(Foundries>Gujarat>Amreli) Extracted number: 111 
+2021-09-28 1632784638.74986: 	(Foundries>Gujarat>Amreli) Extracted number: 112 
+2021-09-28 1632784641.8036273: 	(Foundries>Gujarat>Amreli) Extracted number: 113 
+2021-09-28 1632784644.9731748: 	(Foundries>Gujarat>Amreli) Extracted number: 114 
+2021-09-28 1632784648.0260754: 	(Foundries>Gujarat>Amreli) Extracted number: 115 
+2021-09-28 1632784649.7954698: 	(Foundries>Gujarat>Amreli) Extracted number: 116 
+2021-09-28 1632784651.5066504: 	(Foundries>Gujarat>Amreli) Extracted number: 117 
+2021-09-28 1632784653.3338156: 	(Foundries>Gujarat>Amreli) Extracted number: 118 
+2021-09-28 1632784656.9778678: 	(Foundries>Gujarat>Amreli) Extracted number: 119 
+2021-09-28 1632784658.6862755: 	(Foundries>Gujarat>Amreli) Extracted number: 120 
+2021-09-28 1632784661.7969244: 	(Foundries>Gujarat>Amreli) Extracted number: 121 
+2021-09-28 1632784664.9199982: 	(Foundries>Gujarat>Amreli) Extracted number: 122 
+2021-09-28 1632784666.6768358: 	(Foundries>Gujarat>Amreli) Extracted number: 123 
+2021-09-28 1632784668.4275792: 	(Foundries>Gujarat>Amreli) Extracted number: 124 
+2021-09-28 1632784672.125239: 	(Foundries>Gujarat>Amreli) Extracted number: 125 
+2021-09-28 1632784675.2964923: 	(Foundries>Gujarat>Amreli) Extracted number: 126 
+2021-09-28 1632784677.036526: 	(Foundries>Gujarat>Amreli) Extracted number: 127 
+2021-09-28 1632784677.3756177: 	(Foundries>Gujarat>Amreli) PAGE: 8 
+-----------------------
+
+2021-09-28 1632784682.410731: 	(Foundries>Gujarat>Amreli) Extracted number: 128 
+2021-09-28 1632784685.5959547: 	(Foundries>Gujarat>Amreli) Extracted number: 129 
+2021-09-28 1632784687.345426: 	(Foundries>Gujarat>Amreli) Extracted number: 130 
+2021-09-28 1632784689.1395998: 	(Foundries>Gujarat>Amreli) Extracted number: 131 
+2021-09-28 1632784690.9732654: 	(Foundries>Gujarat>Amreli) Extracted number: 132 
+2021-09-28 1632784694.117156: 	(Foundries>Gujarat>Amreli) Extracted number: 133 
+2021-09-28 1632784695.8688262: 	(Foundries>Gujarat>Amreli) Extracted number: 134 
+2021-09-28 1632784697.6000407: 	(Foundries>Gujarat>Amreli) Extracted number: 135 
+2021-09-28 1632784699.3912022: 	(Foundries>Gujarat>Amreli) Extracted number: 136 
+2021-09-28 1632784701.164856: 	(Foundries>Gujarat>Amreli) Extracted number: 137 
+2021-09-28 1632784702.5075743: 	(Foundries>Gujarat>Amreli) Extracted number: 138 
+2021-09-28 1632784704.2835276: 	(Foundries>Gujarat>Amreli) Extracted number: 139 
+2021-09-28 1632784706.008843: 	(Foundries>Gujarat>Amreli) Extracted number: 140 
+2021-09-28 1632784707.7929802: 	(Foundries>Gujarat>Amreli) Extracted number: 141 
+2021-09-28 1632784709.5289395: 	(Foundries>Gujarat>Amreli) Extracted number: 142 
+2021-09-28 1632784712.6843505: 	(Foundries>Gujarat>Amreli) Extracted number: 143 
+2021-09-28 1632784714.4667096: 	(Foundries>Gujarat>Amreli) Extracted number: 144 
+2021-09-28 1632784716.2489839: 	(Foundries>Gujarat>Amreli) Extracted number: 145 
+2021-09-28 1632784717.5364976: 	(Foundries>Gujarat>Amreli) Extracted number: 146 
+2021-09-28 1632784719.2996213: 	(Foundries>Gujarat>Amreli) Extracted number: 147 
+2021-09-28 1632784719.678608: 	(Foundries>Gujarat>Amreli) PAGE: 9 
+-----------------------
+
+2021-09-28 1632784724.6918983: 	(Foundries>Gujarat>Amreli) Extracted number: 148 
+2021-09-28 1632784726.4426715: 	(Foundries>Gujarat>Amreli) Extracted number: 149 
+2021-09-28 1632784728.1656425: 	(Foundries>Gujarat>Amreli) Extracted number: 150 
+2021-09-28 1632784729.8830779: 	(Foundries>Gujarat>Amreli) Extracted number: 151 
+2021-09-28 1632784732.992014: 	(Foundries>Gujarat>Amreli) Extracted number: 152 
+2021-09-28 1632784734.774194: 	(Foundries>Gujarat>Amreli) Extracted number: 153 
+2021-09-28 1632784736.6304574: 	(Foundries>Gujarat>Amreli) Extracted number: 154 
+2021-09-28 1632784739.7650373: 	(Foundries>Gujarat>Amreli) Extracted number: 155 
+2021-09-28 1632784741.5200398: 	(Foundries>Gujarat>Amreli) Extracted number: 156 
+2021-09-28 1632784743.2367709: 	(Foundries>Gujarat>Amreli) Extracted number: 157 
+2021-09-28 1632784746.9854095: 	(Foundries>Gujarat>Amreli) Extracted number: 158 
+2021-09-28 1632784748.2333527: 	(Foundries>Gujarat>Amreli) Extracted number: 159 
+2021-09-28 1632784749.9915512: 	(Foundries>Gujarat>Amreli) Extracted number: 160 
+2021-09-28 1632784751.6898968: 	(Foundries>Gujarat>Amreli) Extracted number: 161 
+2021-09-28 1632784753.4586644: 	(Foundries>Gujarat>Amreli) Extracted number: 162 
+2021-09-28 1632784754.795881: 	(Foundries>Gujarat>Amreli) Extracted number: 163 
+2021-09-28 1632784756.5175986: 	(Foundries>Gujarat>Amreli) Extracted number: 164 
+2021-09-28 1632784758.2661479: 	(Foundries>Gujarat>Amreli) Extracted number: 165 
+2021-09-28 1632784760.0198157: 	(Foundries>Gujarat>Amreli) Extracted number: 166 
+2021-09-28 1632784761.772996: 	(Foundries>Gujarat>Amreli) Extracted number: 167 
+2021-09-28 1632784762.1380186: 	(Foundries>Gujarat>Amreli) PAGE: 10 
+-----------------------
+
+2021-09-28 1632784767.1652482: 	(Foundries>Gujarat>Amreli) Extracted number: 168 
+2021-09-28 1632784769.0207: 	(Foundries>Gujarat>Amreli) Extracted number: 169 
+2021-09-28 1632784772.1786022: 	(Foundries>Gujarat>Amreli) Extracted number: 170 
+2021-09-28 1632784773.9512243: 	(Foundries>Gujarat>Amreli) Extracted number: 171 
+2021-09-28 1632784775.7928612: 	(Foundries>Gujarat>Amreli) Extracted number: 172 
+2021-09-28 1632784778.892666: 	(Foundries>Gujarat>Amreli) Extracted number: 173 
+2021-09-28 1632784780.6485672: 	(Foundries>Gujarat>Amreli) Extracted number: 174 
+2021-09-28 1632784782.4437346: 	(Foundries>Gujarat>Amreli) Extracted number: 175 
+2021-09-28 1632784784.185586: 	(Foundries>Gujarat>Amreli) Extracted number: 176 
+2021-09-28 1632784787.7446024: 	(Foundries>Gujarat>Amreli) Extracted number: 177 
+2021-09-28 1632784790.8158152: 	(Foundries>Gujarat>Amreli) Extracted number: 178 
+2021-09-28 1632784792.6090083: 	(Foundries>Gujarat>Amreli) Extracted number: 179 
+2021-09-28 1632784794.3325386: 	(Foundries>Gujarat>Amreli) Extracted number: 180 
+2021-09-28 1632784795.6363692: 	(Foundries>Gujarat>Amreli) Extracted number: 181 
+2021-09-28 1632784797.4014685: 	(Foundries>Gujarat>Amreli) Extracted number: 182 
+2021-09-28 1632784798.703535: 	(Foundries>Gujarat>Amreli) Extracted number: 183 
+2021-09-28 1632784801.7446856: 	(Foundries>Gujarat>Amreli) Extracted number: 184 
+2021-09-28 1632784803.4610934: 	(Foundries>Gujarat>Amreli) Extracted number: 185 
+2021-09-28 1632784805.2439082: 	(Foundries>Gujarat>Amreli) Extracted number: 186 
+2021-09-28 1632784805.606937: 	(Foundries>Gujarat>Amreli) PAGE: 11 
+-----------------------
+
+2021-09-28 1632784810.6157353: 	(Foundries>Gujarat>Amreli) Extracted number: 187 
+2021-09-28 1632784813.8011894: 	(Foundries>Gujarat>Amreli) Extracted number: 188 
+2021-09-28 1632784815.6258714: 	(Foundries>Gujarat>Amreli) Extracted number: 189 
+2021-09-28 1632784818.7835371: 	(Foundries>Gujarat>Amreli) Extracted number: 190 
+2021-09-28 1632784820.5667865: 	(Foundries>Gujarat>Amreli) Extracted number: 191 
+2021-09-28 1632784822.4361298: 	(Foundries>Gujarat>Amreli) Extracted number: 192 
+2021-09-28 1632784824.1948304: 	(Foundries>Gujarat>Amreli) Extracted number: 193 
+2021-09-28 1632784827.7625554: 	(Foundries>Gujarat>Amreli) Extracted number: 194 
+2021-09-28 1632784829.5502048: 	(Foundries>Gujarat>Amreli) Extracted number: 195 
+2021-09-28 1632784831.3089745: 	(Foundries>Gujarat>Amreli) Extracted number: 196 
+2021-09-28 1632784834.5054262: 	(Foundries>Gujarat>Amreli) Extracted number: 197 
+2021-09-28 1632784836.27771: 	(Foundries>Gujarat>Amreli) Extracted number: 198 
+2021-09-28 1632784838.1027572: 	(Foundries>Gujarat>Amreli) Extracted number: 199 
+2021-09-28 1632784841.2098515: 	(Foundries>Gujarat>Amreli) Extracted number: 200 
+2021-09-28 1632784844.2773323: 	(Foundries>Gujarat>Amreli) Extracted number: 201 
+2021-09-28 1632784846.0019572: 	(Foundries>Gujarat>Amreli) Extracted number: 202 
+2021-09-28 1632784847.7718089: 	(Foundries>Gujarat>Amreli) Extracted number: 203 
+2021-09-28 1632784850.9446418: 	(Foundries>Gujarat>Amreli) Extracted number: 204 
+2021-09-28 1632784852.7089462: 	(Foundries>Gujarat>Amreli) Extracted number: 205 
+2021-09-28 1632784855.8154957: 	(Foundries>Gujarat>Amreli) Extracted number: 206 
+2021-09-28 1632784856.1696491: 	(Foundries>Gujarat>Amreli) PAGE: 12 
+-----------------------
+
+2021-09-28 1632784864.415005: 	(Foundries>Gujarat>Amreli) Extracted number: 207 
+2021-09-28 1632784866.1559029: 	(Foundries>Gujarat>Amreli) Extracted number: 208 
+2021-09-28 1632784867.8860478: 	(Foundries>Gujarat>Amreli) Extracted number: 209 
+2021-09-28 1632784871.1217666: 	(Foundries>Gujarat>Amreli) Extracted number: 210 
+2021-09-28 1632784873.0976977: 	(Foundries>Gujarat>Amreli) Extracted number: 211 
+2021-09-28 1632784876.2754834: 	(Foundries>Gujarat>Amreli) Extracted number: 212 
+2021-09-28 1632784879.5541508: 	(Foundries>Gujarat>Amreli) Extracted number: 213 
+2021-09-28 1632784881.2977333: 	(Foundries>Gujarat>Amreli) Extracted number: 214 
+2021-09-28 1632784883.0516562: 	(Foundries>Gujarat>Amreli) Extracted number: 215 
+2021-09-28 1632784884.8517957: 	(Foundries>Gujarat>Amreli) Extracted number: 216 
+2021-09-28 1632784886.6182475: 	(Foundries>Gujarat>Amreli) Extracted number: 217 
+2021-09-28 1632784888.3760417: 	(Foundries>Gujarat>Amreli) Extracted number: 218 
+2021-09-28 1632784891.5038452: 	(Foundries>Gujarat>Amreli) Extracted number: 219 
+2021-09-28 1632784893.418057: 	(Foundries>Gujarat>Amreli) Extracted number: 220 
+2021-09-28 1632784895.1893861: 	(Foundries>Gujarat>Amreli) Extracted number: 221 
+2021-09-28 1632784896.9304292: 	(Foundries>Gujarat>Amreli) Extracted number: 222 
+2021-09-28 1632784898.7401376: 	(Foundries>Gujarat>Amreli) Extracted number: 223 
+2021-09-28 1632784900.0451362: 	(Foundries>Gujarat>Amreli) Extracted number: 224 
+2021-09-28 1632784901.8215802: 	(Foundries>Gujarat>Amreli) Extracted number: 225 
+2021-09-28 1632784902.26938: 	(Foundries>Gujarat>Amreli) PAGE: 13 
+-----------------------
+
+2021-09-28 1632784908.6695304: 	(Foundries>Gujarat>Amreli) Extracted number: 226 
+2021-09-28 1632784910.4548225: 	(Foundries>Gujarat>Amreli) Extracted number: 227 
+2021-09-28 1632784912.2521832: 	(Foundries>Gujarat>Amreli) Extracted number: 228 
+2021-09-28 1632784914.0211082: 	(Foundries>Gujarat>Amreli) Extracted number: 229 
+2021-09-28 1632784915.8270454: 	(Foundries>Gujarat>Amreli) Extracted number: 230 
+2021-09-28 1632784917.6460042: 	(Foundries>Gujarat>Amreli) Extracted number: 231 
+2021-09-28 1632784921.3084426: 	(Foundries>Gujarat>Amreli) Extracted number: 232 
+2021-09-28 1632784924.49872: 	(Foundries>Gujarat>Amreli) Extracted number: 233 
+2021-09-28 1632784927.716824: 	(Foundries>Gujarat>Amreli) Extracted number: 234 
+2021-09-28 1632784931.367842: 	(Foundries>Gujarat>Amreli) Extracted number: 235 
+2021-09-28 1632784934.5291493: 	(Foundries>Gujarat>Amreli) Extracted number: 236 
+2021-09-28 1632784936.2767644: 	(Foundries>Gujarat>Amreli) Extracted number: 237 
+2021-09-28 1632784938.0359004: 	(Foundries>Gujarat>Amreli) Extracted number: 238 
+2021-09-28 1632784939.795879: 	(Foundries>Gujarat>Amreli) Extracted number: 239 
+2021-09-28 1632784941.7111733: 	(Foundries>Gujarat>Amreli) Extracted number: 240 
+2021-09-28 1632784946.603655: 	(Foundries>Gujarat>Amreli) Extracted number: 241 
+2021-09-28 1632784949.7443829: 	(Foundries>Gujarat>Amreli) Extracted number: 242 
+2021-09-28 1632784953.3703125: 	(Foundries>Gujarat>Amreli) PAGE: 14 
+-----------------------
+
+2021-09-28 1632784959.9493048: 	(Foundries>Gujarat>Amreli) Extracted number: 243 
+2021-09-28 1632784971.8012278: 	(Foundries>Gujarat>Amreli) Extracted number: 244 
+
+--------------
+2021-09-28 1632784971.8650563: 	(Foundries>Gujarat>Amreli) Foundries added in Amreli Gujarat 
+--------------
+
+
+=======================================
+2021-09-28 1632784971.8650563: 	(Foundries>Gujarat) EXTRACTED Foundries IN AMRELI 
+2021-09-28 1632784971.8650563: 	(Foundries>Gujarat) Total extracted foundries: -1 
+2021-09-28 1632784971.8650563: 	(Foundries>Gujarat) Time taken: 633.8783965110779 seconds
+=======================================
+
+
+=======================================
+2021-09-28 1632783621.4426768: 	(Foundries>Gujarat) Current District: Anand 
+=======================================
+
+2021-09-28 1632784977.5211384: 	(Foundries>Gujarat>Anand)Initialising chrome browser with head
+2021-09-28 1632784982.5830986: 	(Foundries>Gujarat>Anand) PAGE: 1 
+-----------------------
+
+2021-09-28 1632784987.5649521: 	(Foundries>Gujarat>Anand) Extracted number: 0 
+2021-09-28 1632784989.3308766: 	(Foundries>Gujarat>Anand) Extracted number: 1 
+2021-09-28 1632784991.107466: 	(Foundries>Gujarat>Anand) Extracted number: 2 
+2021-09-28 1632784994.138553: 	(Foundries>Gujarat>Anand) Extracted number: 3 
+2021-09-28 1632784997.2941563: 	(Foundries>Gujarat>Anand) Extracted number: 4 
+2021-09-28 1632785000.3704753: 	(Foundries>Gujarat>Anand) Extracted number: 5 
+2021-09-28 1632785002.127526: 	(Foundries>Gujarat>Anand) Extracted number: 6 
+2021-09-28 1632785003.821899: 	(Foundries>Gujarat>Anand) Extracted number: 7 
+2021-09-28 1632785005.561528: 	(Foundries>Gujarat>Anand) Extracted number: 8 
+2021-09-28 1632785008.6806629: 	(Foundries>Gujarat>Anand) Extracted number: 9 
+2021-09-28 1632785010.3945012: 	(Foundries>Gujarat>Anand) Extracted number: 10 
+2021-09-28 1632785013.460755: 	(Foundries>Gujarat>Anand) Extracted number: 11 
+2021-09-28 1632785015.2201455: 	(Foundries>Gujarat>Anand) Extracted number: 12 
+2021-09-28 1632785018.3200898: 	(Foundries>Gujarat>Anand) Extracted number: 13 
+2021-09-28 1632785020.289382: 	(Foundries>Gujarat>Anand) Extracted number: 14 
+2021-09-28 1632785023.9171343: 	(Foundries>Gujarat>Anand) Extracted number: 15 
+2021-09-28 1632785025.6603124: 	(Foundries>Gujarat>Anand) Extracted number: 16 
+2021-09-28 1632785028.7501614: 	(Foundries>Gujarat>Anand) Extracted number: 17 
+2021-09-28 1632785030.4465244: 	(Foundries>Gujarat>Anand) Extracted number: 18 
+2021-09-28 1632785033.4920948: 	(Foundries>Gujarat>Anand) Extracted number: 19 
+2021-09-28 1632785033.8322299: 	(Foundries>Gujarat>Anand) PAGE: 2 
+-----------------------
+
+2021-09-28 1632785063.2026083: 	(Foundries>Gujarat>Anand) Extracted number: 20 
+2021-09-28 1632785065.0144086: 	(Foundries>Gujarat>Anand) Extracted number: 21 
+2021-09-28 1632785068.167867: 	(Foundries>Gujarat>Anand) Extracted number: 22 
+2021-09-28 1632785069.921421: 	(Foundries>Gujarat>Anand) Extracted number: 23 
+2021-09-28 1632785071.6728709: 	(Foundries>Gujarat>Anand) Extracted number: 24 
+2021-09-28 1632785073.3883715: 	(Foundries>Gujarat>Anand) Extracted number: 25 
+2021-09-28 1632785075.1117442: 	(Foundries>Gujarat>Anand) Extracted number: 26 
+2021-09-28 1632785076.8936703: 	(Foundries>Gujarat>Anand) Extracted number: 27 
+2021-09-28 1632785080.0630894: 	(Foundries>Gujarat>Anand) Extracted number: 28 
+2021-09-28 1632785081.9167933: 	(Foundries>Gujarat>Anand) Extracted number: 29 
+2021-09-28 1632785082.256885: 	(Foundries>Gujarat>Anand) PAGE: 3 
+-----------------------
+
+2021-09-28 1632785090.2066917: 	(Foundries>Gujarat>Anand) Extracted number: 30 
+2021-09-28 1632785091.9044805: 	(Foundries>Gujarat>Anand) Extracted number: 31 
+2021-09-28 1632785093.657485: 	(Foundries>Gujarat>Anand) Extracted number: 32 
+2021-09-28 1632785096.6370986: 	(Foundries>Gujarat>Anand) Extracted number: 33 
+2021-09-28 1632785098.4149988: 	(Foundries>Gujarat>Anand) Extracted number: 34 
+2021-09-28 1632785100.1715868: 	(Foundries>Gujarat>Anand) Extracted number: 35 
+2021-09-28 1632785103.245284: 	(Foundries>Gujarat>Anand) Extracted number: 36 
+2021-09-28 1632785106.282568: 	(Foundries>Gujarat>Anand) Extracted number: 37 
+2021-09-28 1632785108.0988314: 	(Foundries>Gujarat>Anand) Extracted number: 38 
+2021-09-28 1632785109.8696795: 	(Foundries>Gujarat>Anand) Extracted number: 39 
+2021-09-28 1632785111.5775876: 	(Foundries>Gujarat>Anand) Extracted number: 40 
+2021-09-28 1632785114.5379317: 	(Foundries>Gujarat>Anand) Extracted number: 41 
+2021-09-28 1632785117.6374166: 	(Foundries>Gujarat>Anand) Extracted number: 42 
+2021-09-28 1632785120.6900916: 	(Foundries>Gujarat>Anand) Extracted number: 43 
+2021-09-28 1632785122.3995304: 	(Foundries>Gujarat>Anand) Extracted number: 44 
+2021-09-28 1632785125.45447: 	(Foundries>Gujarat>Anand) Extracted number: 45 
+2021-09-28 1632785128.9567645: 	(Foundries>Gujarat>Anand) Extracted number: 46 
+2021-09-28 1632785130.7105145: 	(Foundries>Gujarat>Anand) Extracted number: 47 
+2021-09-28 1632785132.4304047: 	(Foundries>Gujarat>Anand) Extracted number: 48 
+2021-09-28 1632785132.7854567: 	(Foundries>Gujarat>Anand) PAGE: 4 
+-----------------------
+
+2021-09-28 1632785138.9451427: 	(Foundries>Gujarat>Anand) Extracted number: 49 
+2021-09-28 1632785141.9514713: 	(Foundries>Gujarat>Anand) Extracted number: 50 
+2021-09-28 1632785145.0734015: 	(Foundries>Gujarat>Anand) Extracted number: 51 
+2021-09-28 1632785148.127257: 	(Foundries>Gujarat>Anand) Extracted number: 52 
+2021-09-28 1632785149.809011: 	(Foundries>Gujarat>Anand) Extracted number: 53 
+2021-09-28 1632785151.5659785: 	(Foundries>Gujarat>Anand) Extracted number: 54 
+2021-09-28 1632785154.554702: 	(Foundries>Gujarat>Anand) Extracted number: 55 
+2021-09-28 1632785156.3116457: 	(Foundries>Gujarat>Anand) Extracted number: 56 
+2021-09-28 1632785157.9663098: 	(Foundries>Gujarat>Anand) Extracted number: 57 
+2021-09-28 1632785161.536248: 	(Foundries>Gujarat>Anand) Extracted number: 58 
+2021-09-28 1632785164.424849: 	(Foundries>Gujarat>Anand) Extracted number: 59 
+2021-09-28 1632785167.3438118: 	(Foundries>Gujarat>Anand) Extracted number: 60 
+2021-09-28 1632785169.0687802: 	(Foundries>Gujarat>Anand) Extracted number: 61 
+2021-09-28 1632785170.7902317: 	(Foundries>Gujarat>Anand) Extracted number: 62 
+2021-09-28 1632785173.8604178: 	(Foundries>Gujarat>Anand) Extracted number: 63 
+2021-09-28 1632785176.8261304: 	(Foundries>Gujarat>Anand) Extracted number: 64 
+2021-09-28 1632785179.8411932: 	(Foundries>Gujarat>Anand) Extracted number: 65 
+2021-09-28 1632785182.823024: 	(Foundries>Gujarat>Anand) Extracted number: 66 
+2021-09-28 1632785185.83467: 	(Foundries>Gujarat>Anand) Extracted number: 67 
+2021-09-28 1632785188.786589: 	(Foundries>Gujarat>Anand) Extracted number: 68 
+2021-09-28 1632785189.0937696: 	(Foundries>Gujarat>Anand) PAGE: 5 
+-----------------------
+
+2021-09-28 1632785194.082321: 	(Foundries>Gujarat>Anand) Extracted number: 69 
+2021-09-28 1632785195.8392277: 	(Foundries>Gujarat>Anand) Extracted number: 70 
+2021-09-28 1632785197.5400958: 	(Foundries>Gujarat>Anand) Extracted number: 71 
+2021-09-28 1632785199.2412333: 	(Foundries>Gujarat>Anand) Extracted number: 72 
+2021-09-28 1632785200.9917388: 	(Foundries>Gujarat>Anand) Extracted number: 73 
+2021-09-28 1632785204.03133: 	(Foundries>Gujarat>Anand) Extracted number: 74 
+2021-09-28 1632785207.5342817: 	(Foundries>Gujarat>Anand) Extracted number: 75 
+2021-09-28 1632785209.2319243: 	(Foundries>Gujarat>Anand) Extracted number: 76 
+2021-09-28 1632785210.9477062: 	(Foundries>Gujarat>Anand) Extracted number: 77 
+2021-09-28 1632785212.6336226: 	(Foundries>Gujarat>Anand) Extracted number: 78 
+2021-09-28 1632785215.6829665: 	(Foundries>Gujarat>Anand) Extracted number: 79 
+2021-09-28 1632785218.6534176: 	(Foundries>Gujarat>Anand) Extracted number: 80 
+2021-09-28 1632785220.4241972: 	(Foundries>Gujarat>Anand) Extracted number: 81 
+2021-09-28 1632785223.3608954: 	(Foundries>Gujarat>Anand) Extracted number: 82 
+2021-09-28 1632785226.4038875: 	(Foundries>Gujarat>Anand) Extracted number: 83 
+2021-09-28 1632785229.367026: 	(Foundries>Gujarat>Anand) Extracted number: 84 
+2021-09-28 1632785232.3195443: 	(Foundries>Gujarat>Anand) Extracted number: 85 
+2021-09-28 1632785235.2941186: 	(Foundries>Gujarat>Anand) Extracted number: 86 
+2021-09-28 1632785241.3466804: 	(Foundries>Gujarat>Anand) Extracted number: 87 
+2021-09-28 1632785241.6349769: 	(Foundries>Gujarat>Anand) PAGE: 6 
+-----------------------
+
+2021-09-28 1632785246.5763607: 	(Foundries>Gujarat>Anand) Extracted number: 88 
+2021-09-28 1632785252.730549: 	(Foundries>Gujarat>Anand) Extracted number: 89 
+2021-09-28 1632785259.2326374: 	(Foundries>Gujarat>Anand) Extracted number: 90 
+2021-09-28 1632785262.2311208: 	(Foundries>Gujarat>Anand) Extracted number: 91 
+2021-09-28 1632785265.8149474: 	(Foundries>Gujarat>Anand) Extracted number: 92 
+2021-09-28 1632785268.852246: 	(Foundries>Gujarat>Anand) Extracted number: 93 
+2021-09-28 1632785271.906703: 	(Foundries>Gujarat>Anand) Extracted number: 94 
+2021-09-28 1632785274.8625367: 	(Foundries>Gujarat>Anand) Extracted number: 95 
+2021-09-28 1632785276.631095: 	(Foundries>Gujarat>Anand) Extracted number: 96 
+2021-09-28 1632785279.6867468: 	(Foundries>Gujarat>Anand) Extracted number: 97 
+2021-09-28 1632785281.3953972: 	(Foundries>Gujarat>Anand) Extracted number: 98 
+2021-09-28 1632785283.167113: 	(Foundries>Gujarat>Anand) Extracted number: 99 
+2021-09-28 1632785286.1939049: 	(Foundries>Gujarat>Anand) Extracted number: 100 
+2021-09-28 1632785289.2899652: 	(Foundries>Gujarat>Anand) Extracted number: 101 
+2021-09-28 1632785290.9659092: 	(Foundries>Gujarat>Anand) Extracted number: 102 
+2021-09-28 1632785294.0299048: 	(Foundries>Gujarat>Anand) Extracted number: 103 
+2021-09-28 1632785297.5409513: 	(Foundries>Gujarat>Anand) Extracted number: 104 
+2021-09-28 1632785300.582009: 	(Foundries>Gujarat>Anand) Extracted number: 105 
+2021-09-28 1632785300.8812437: 	(Foundries>Gujarat>Anand) PAGE: 7 
+-----------------------
+
+2021-09-28 1632785305.9225304: 	(Foundries>Gujarat>Anand) Extracted number: 106 
+2021-09-28 1632785307.6846437: 	(Foundries>Gujarat>Anand) Extracted number: 107 
+2021-09-28 1632785310.8363209: 	(Foundries>Gujarat>Anand) Extracted number: 108 
+2021-09-28 1632785313.8025: 	(Foundries>Gujarat>Anand) Extracted number: 109 
+2021-09-28 1632785317.3416133: 	(Foundries>Gujarat>Anand) Extracted number: 110 
+2021-09-28 1632785321.032521: 	(Foundries>Gujarat>Anand) Extracted number: 111 
+2021-09-28 1632785322.7851508: 	(Foundries>Gujarat>Anand) Extracted number: 112 
+2021-09-28 1632785325.926517: 	(Foundries>Gujarat>Anand) Extracted number: 113 
+2021-09-28 1632785328.964587: 	(Foundries>Gujarat>Anand) Extracted number: 114 
+2021-09-28 1632785330.6671739: 	(Foundries>Gujarat>Anand) Extracted number: 115 
+2021-09-28 1632785333.7265816: 	(Foundries>Gujarat>Anand) Extracted number: 116 
+2021-09-28 1632785338.5674403: 	(Foundries>Gujarat>Anand) Extracted number: 117 
+2021-09-28 1632785340.3414643: 	(Foundries>Gujarat>Anand) Extracted number: 118 
+2021-09-28 1632785343.4098897: 	(Foundries>Gujarat>Anand) Extracted number: 119 
+2021-09-28 1632785346.8642678: 	(Foundries>Gujarat>Anand) Extracted number: 120 
+2021-09-28 1632785352.9994743: 	(Foundries>Gujarat>Anand) Extracted number: 121 
+2021-09-28 1632785356.063493: 	(Foundries>Gujarat>Anand) Extracted number: 122 
+2021-09-28 1632785356.3826709: 	(Foundries>Gujarat>Anand) PAGE: 8 
+-----------------------
+
+2021-09-28 1632785362.6324344: 	(Foundries>Gujarat>Anand) Extracted number: 123 
+2021-09-28 1632785365.6320515: 	(Foundries>Gujarat>Anand) Extracted number: 124 
+2021-09-28 1632785368.7551425: 	(Foundries>Gujarat>Anand) Extracted number: 125 
+2021-09-28 1632785370.4966426: 	(Foundries>Gujarat>Anand) Extracted number: 126 
+2021-09-28 1632785373.577394: 	(Foundries>Gujarat>Anand) Extracted number: 127 
+2021-09-28 1632785375.319068: 	(Foundries>Gujarat>Anand) Extracted number: 128 
+2021-09-28 1632785378.3424191: 	(Foundries>Gujarat>Anand) Extracted number: 129 
+2021-09-28 1632785380.1139452: 	(Foundries>Gujarat>Anand) Extracted number: 130 
+2021-09-28 1632785381.8444207: 	(Foundries>Gujarat>Anand) Extracted number: 131 
+2021-09-28 1632785384.8187537: 	(Foundries>Gujarat>Anand) Extracted number: 132 
+2021-09-28 1632785386.5628772: 	(Foundries>Gujarat>Anand) Extracted number: 133 
+2021-09-28 1632785389.5668476: 	(Foundries>Gujarat>Anand) Extracted number: 134 
+2021-09-28 1632785392.538894: 	(Foundries>Gujarat>Anand) Extracted number: 135 
+2021-09-28 1632785395.5708096: 	(Foundries>Gujarat>Anand) Extracted number: 136 
+2021-09-28 1632785397.371931: 	(Foundries>Gujarat>Anand) Extracted number: 137 
+2021-09-28 1632785400.3995361: 	(Foundries>Gujarat>Anand) Extracted number: 138 
+2021-09-28 1632785403.4438467: 	(Foundries>Gujarat>Anand) Extracted number: 139 
+2021-09-28 1632785406.4592397: 	(Foundries>Gujarat>Anand) Extracted number: 140 
+2021-09-28 1632785410.0366652: 	(Foundries>Gujarat>Anand) Extracted number: 141 
+2021-09-28 1632785413.1446996: 	(Foundries>Gujarat>Anand) Extracted number: 142 
+2021-09-28 1632785413.455867: 	(Foundries>Gujarat>Anand) PAGE: 9 
+-----------------------
+
+2021-09-28 1632785419.770269: 	(Foundries>Gujarat>Anand) Extracted number: 143 
+2021-09-28 1632785421.6265597: 	(Foundries>Gujarat>Anand) Extracted number: 144 
+2021-09-28 1632785423.4970167: 	(Foundries>Gujarat>Anand) Extracted number: 145 
+2021-09-28 1632785428.3410745: 	(Foundries>Gujarat>Anand) Extracted number: 146 
+2021-09-28 1632785430.131631: 	(Foundries>Gujarat>Anand) Extracted number: 147 
+2021-09-28 1632785433.7657697: 	(Foundries>Gujarat>Anand) Extracted number: 148 
+2021-09-28 1632785436.8169434: 	(Foundries>Gujarat>Anand) Extracted number: 149 
+2021-09-28 1632785438.555105: 	(Foundries>Gujarat>Anand) Extracted number: 150 
+2021-09-28 1632785440.3124316: 	(Foundries>Gujarat>Anand) Extracted number: 151 
+2021-09-28 1632785442.0594249: 	(Foundries>Gujarat>Anand) Extracted number: 152 
+2021-09-28 1632785443.7644484: 	(Foundries>Gujarat>Anand) Extracted number: 153 
+2021-09-28 1632785445.6344502: 	(Foundries>Gujarat>Anand) Extracted number: 154 
+2021-09-28 1632785447.3357966: 	(Foundries>Gujarat>Anand) Extracted number: 155 
+2021-09-28 1632785449.1097448: 	(Foundries>Gujarat>Anand) Extracted number: 156 
+2021-09-28 1632785450.86316: 	(Foundries>Gujarat>Anand) Extracted number: 157 
+2021-09-28 1632785453.9494126: 	(Foundries>Gujarat>Anand) Extracted number: 158 
+2021-09-28 1632785455.7189813: 	(Foundries>Gujarat>Anand) Extracted number: 159 
+2021-09-28 1632785458.754254: 	(Foundries>Gujarat>Anand) Extracted number: 160 
+2021-09-28 1632785460.508306: 	(Foundries>Gujarat>Anand) Extracted number: 161 
+2021-09-28 1632785460.8724482: 	(Foundries>Gujarat>Anand) PAGE: 10 
+-----------------------
+
+2021-09-28 1632785469.3952827: 	(Foundries>Gujarat>Anand) Extracted number: 162 
+2021-09-28 1632785471.1974075: 	(Foundries>Gujarat>Anand) Extracted number: 163 
+2021-09-28 1632785474.3316648: 	(Foundries>Gujarat>Anand) Extracted number: 164 
+2021-09-28 1632785476.1281598: 	(Foundries>Gujarat>Anand) Extracted number: 165 
+2021-09-28 1632785478.008399: 	(Foundries>Gujarat>Anand) Extracted number: 166 
+2021-09-28 1632785479.777248: 	(Foundries>Gujarat>Anand) Extracted number: 167 
+2021-09-28 1632785481.4977577: 	(Foundries>Gujarat>Anand) Extracted number: 168 
+2021-09-28 1632785483.2484756: 	(Foundries>Gujarat>Anand) Extracted number: 169 
+2021-09-28 1632785486.315719: 	(Foundries>Gujarat>Anand) Extracted number: 170 
+2021-09-28 1632785489.4429877: 	(Foundries>Gujarat>Anand) Extracted number: 171 
+2021-09-28 1632785491.1889203: 	(Foundries>Gujarat>Anand) Extracted number: 172 
+2021-09-28 1632785492.9713326: 	(Foundries>Gujarat>Anand) Extracted number: 173 
+2021-09-28 1632785495.9814131: 	(Foundries>Gujarat>Anand) Extracted number: 174 
+2021-09-28 1632785497.7586212: 	(Foundries>Gujarat>Anand) Extracted number: 175 
+2021-09-28 1632785503.243907: 	(Foundries>Gujarat>Anand) Extracted number: 176 
+2021-09-28 1632785505.0273495: 	(Foundries>Gujarat>Anand) Extracted number: 177 
+2021-09-28 1632785508.5173535: 	(Foundries>Gujarat>Anand) PAGE: 11 
+-----------------------
+
+2021-09-28 1632785514.8771665: 	(Foundries>Gujarat>Anand) Extracted number: 178 
+2021-09-28 1632785516.6634784: 	(Foundries>Gujarat>Anand) Extracted number: 179 
+2021-09-28 1632785523.3319366: 	(Foundries>Gujarat>Anand) Extracted number: 180 
+2021-09-28 1632785525.1931794: 	(Foundries>Gujarat>Anand) Extracted number: 181 
+2021-09-28 1632785530.2377155: 	(Foundries>Gujarat>Anand) Extracted number: 182 
+2021-09-28 1632785533.2620163: 	(Foundries>Gujarat>Anand) Extracted number: 183 
+2021-09-28 1632785536.9913924: 	(Foundries>Gujarat>Anand) Extracted number: 184 
+2021-09-28 1632785538.757264: 	(Foundries>Gujarat>Anand) Extracted number: 185 
+2021-09-28 1632785540.5051177: 	(Foundries>Gujarat>Anand) Extracted number: 186 
+2021-09-28 1632785543.5052142: 	(Foundries>Gujarat>Anand) Extracted number: 187 
+2021-09-28 1632785546.723645: 	(Foundries>Gujarat>Anand) Extracted number: 188 
+2021-09-28 1632785548.4800498: 	(Foundries>Gujarat>Anand) Extracted number: 189 
+2021-09-28 1632785551.6020827: 	(Foundries>Gujarat>Anand) Extracted number: 190 
+2021-09-28 1632785553.4132547: 	(Foundries>Gujarat>Anand) Extracted number: 191 
+2021-09-28 1632785556.5562577: 	(Foundries>Gujarat>Anand) Extracted number: 192 
+2021-09-28 1632785558.3125489: 	(Foundries>Gujarat>Anand) Extracted number: 193 
+2021-09-28 1632785560.0340812: 	(Foundries>Gujarat>Anand) Extracted number: 194 
+2021-09-28 1632785563.102633: 	(Foundries>Gujarat>Anand) Extracted number: 195 
+2021-09-28 1632785563.5354912: 	(Foundries>Gujarat>Anand) PAGE: 12 
+-----------------------
+
+2021-09-28 1632785569.4982076: 	(Foundries>Gujarat>Anand) Extracted number: 196 
+2021-09-28 1632785571.0830808: 	(Foundries>Gujarat>Anand) Extracted number: 197 
+2021-09-28 1632785573.842925: 	(Foundries>Gujarat>Anand) Extracted number: 198 
+2021-09-28 1632785575.6033423: 	(Foundries>Gujarat>Anand) Extracted number: 199 
+2021-09-28 1632785587.328089: 	(Foundries>Gujarat>Anand) Extracted number: 200 
+
+--------------
+2021-09-28 1632785587.3650155: 	(Foundries>Gujarat>Anand) Foundries added in Anand Gujarat 
+--------------
+
+
+=======================================
+2021-09-28 1632785587.3650155: 	(Foundries>Gujarat) EXTRACTED Foundries IN ANAND 
+2021-09-28 1632785587.3650155: 	(Foundries>Gujarat) Total extracted foundries: -1 
+2021-09-28 1632785587.3650155: 	(Foundries>Gujarat) Time taken: 611.136458158493 seconds
+=======================================
+
+
+=======================================
+2021-09-28 1632783621.4426768: 	(Foundries>Gujarat) Current District: Aravalli 
+=======================================
+
+2021-09-28 1632785593.2685874: 	(Foundries>Gujarat>Aravalli)Initialising chrome browser with head
+2021-09-28 1632785598.4170358: 	(Foundries>Gujarat>Aravalli) PAGE: 1 
+-----------------------
+
+2021-09-28 1632785603.3440294: 	(Foundries>Gujarat>Aravalli) Extracted number: 0 
+2021-09-28 1632785606.8391173: 	(Foundries>Gujarat>Aravalli) Extracted number: 1 
+2021-09-28 1632785610.9413748: 	(Foundries>Gujarat>Aravalli) Extracted number: 2 
+2021-09-28 1632785612.6102974: 	(Foundries>Gujarat>Aravalli) Extracted number: 3 
+2021-09-28 1632785614.329179: 	(Foundries>Gujarat>Aravalli) Extracted number: 4 
+2021-09-28 1632785616.0349786: 	(Foundries>Gujarat>Aravalli) Extracted number: 5 
+2021-09-28 1632785619.045497: 	(Foundries>Gujarat>Aravalli) Extracted number: 6 
+2021-09-28 1632785622.0684502: 	(Foundries>Gujarat>Aravalli) Extracted number: 7 
+2021-09-28 1632785625.6052275: 	(Foundries>Gujarat>Aravalli) Extracted number: 8 
+2021-09-28 1632785628.6223133: 	(Foundries>Gujarat>Aravalli) Extracted number: 9 
+2021-09-28 1632785631.581579: 	(Foundries>Gujarat>Aravalli) Extracted number: 10 
+2021-09-28 1632785634.6912875: 	(Foundries>Gujarat>Aravalli) Extracted number: 11 
+2021-09-28 1632785637.7141743: 	(Foundries>Gujarat>Aravalli) Extracted number: 12 
+2021-09-28 1632785640.8361437: 	(Foundries>Gujarat>Aravalli) Extracted number: 13 
+2021-09-28 1632785642.532834: 	(Foundries>Gujarat>Aravalli) Extracted number: 14 
+2021-09-28 1632785644.2575247: 	(Foundries>Gujarat>Aravalli) Extracted number: 15 
+2021-09-28 1632785647.2067087: 	(Foundries>Gujarat>Aravalli) Extracted number: 16 
+2021-09-28 1632785650.2638297: 	(Foundries>Gujarat>Aravalli) Extracted number: 17 
+2021-09-28 1632785652.002492: 	(Foundries>Gujarat>Aravalli) Extracted number: 18 
+2021-09-28 1632785653.7418668: 	(Foundries>Gujarat>Aravalli) Extracted number: 19 
+2021-09-28 1632785654.0729833: 	(Foundries>Gujarat>Aravalli) PAGE: 2 
+-----------------------
+
+2021-09-28 1632785684.1430604: 	(Foundries>Gujarat>Aravalli) Extracted number: 20 
+2021-09-28 1632785687.6173215: 	(Foundries>Gujarat>Aravalli) Extracted number: 21 
+2021-09-28 1632785690.6800578: 	(Foundries>Gujarat>Aravalli) Extracted number: 22 
+2021-09-28 1632785692.3887446: 	(Foundries>Gujarat>Aravalli) Extracted number: 23 
+2021-09-28 1632785694.1194444: 	(Foundries>Gujarat>Aravalli) Extracted number: 24 
+2021-09-28 1632785697.1584506: 	(Foundries>Gujarat>Aravalli) Extracted number: 25 
+2021-09-28 1632785700.7250378: 	(Foundries>Gujarat>Aravalli) Extracted number: 26 
+2021-09-28 1632785703.7495024: 	(Foundries>Gujarat>Aravalli) Extracted number: 27 
+2021-09-28 1632785707.3184288: 	(Foundries>Gujarat>Aravalli) Extracted number: 28 
+2021-09-28 1632785710.3584673: 	(Foundries>Gujarat>Aravalli) Extracted number: 29 
+2021-09-28 1632785710.6835754: 	(Foundries>Gujarat>Aravalli) PAGE: 3 
+-----------------------
+
+2021-09-28 1632785716.874331: 	(Foundries>Gujarat>Aravalli) Extracted number: 30 
+2021-09-28 1632785720.017416: 	(Foundries>Gujarat>Aravalli) Extracted number: 31 
+2021-09-28 1632785721.8219388: 	(Foundries>Gujarat>Aravalli) Extracted number: 32 
+2021-09-28 1632785724.9384565: 	(Foundries>Gujarat>Aravalli) Extracted number: 33 
+2021-09-28 1632785726.7231615: 	(Foundries>Gujarat>Aravalli) Extracted number: 34 
+2021-09-28 1632785729.731886: 	(Foundries>Gujarat>Aravalli) Extracted number: 35 
+2021-09-28 1632785731.4866588: 	(Foundries>Gujarat>Aravalli) Extracted number: 36 
+2021-09-28 1632785734.5553129: 	(Foundries>Gujarat>Aravalli) Extracted number: 37 
+2021-09-28 1632785737.5601008: 	(Foundries>Gujarat>Aravalli) Extracted number: 38 
+2021-09-28 1632785741.1717308: 	(Foundries>Gujarat>Aravalli) Extracted number: 39 
+2021-09-28 1632785744.237781: 	(Foundries>Gujarat>Aravalli) Extracted number: 40 
+2021-09-28 1632785747.282503: 	(Foundries>Gujarat>Aravalli) Extracted number: 41 
+2021-09-28 1632785750.7938385: 	(Foundries>Gujarat>Aravalli) Extracted number: 42 
+2021-09-28 1632785752.5089734: 	(Foundries>Gujarat>Aravalli) Extracted number: 43 
+2021-09-28 1632785754.2449896: 	(Foundries>Gujarat>Aravalli) Extracted number: 44 
+2021-09-28 1632785756.0307748: 	(Foundries>Gujarat>Aravalli) Extracted number: 45 
+2021-09-28 1632785759.1326344: 	(Foundries>Gujarat>Aravalli) Extracted number: 46 
+2021-09-28 1632785760.8726475: 	(Foundries>Gujarat>Aravalli) Extracted number: 47 
+2021-09-28 1632785762.6391406: 	(Foundries>Gujarat>Aravalli) Extracted number: 48 
+2021-09-28 1632785762.9643064: 	(Foundries>Gujarat>Aravalli) PAGE: 4 
+-----------------------
+
+2021-09-28 1632785767.921432: 	(Foundries>Gujarat>Aravalli) Extracted number: 49 
+2021-09-28 1632785769.6613553: 	(Foundries>Gujarat>Aravalli) Extracted number: 50 
+2021-09-28 1632785771.460678: 	(Foundries>Gujarat>Aravalli) Extracted number: 51 
+2021-09-28 1632785772.7813609: 	(Foundries>Gujarat>Aravalli) Extracted number: 52 
+2021-09-28 1632785775.8830698: 	(Foundries>Gujarat>Aravalli) Extracted number: 53 
+2021-09-28 1632785777.6653519: 	(Foundries>Gujarat>Aravalli) Extracted number: 54 
+2021-09-28 1632785779.4119208: 	(Foundries>Gujarat>Aravalli) Extracted number: 55 
+2021-09-28 1632785782.5443764: 	(Foundries>Gujarat>Aravalli) Extracted number: 56 
+2021-09-28 1632785785.5981328: 	(Foundries>Gujarat>Aravalli) Extracted number: 57 
+2021-09-28 1632785788.6880245: 	(Foundries>Gujarat>Aravalli) Extracted number: 58 
+2021-09-28 1632785790.483282: 	(Foundries>Gujarat>Aravalli) Extracted number: 59 
+2021-09-28 1632785791.778864: 	(Foundries>Gujarat>Aravalli) Extracted number: 60 
+2021-09-28 1632785793.5213845: 	(Foundries>Gujarat>Aravalli) Extracted number: 61 
+2021-09-28 1632785794.7873127: 	(Foundries>Gujarat>Aravalli) Extracted number: 62 
+2021-09-28 1632785796.6075733: 	(Foundries>Gujarat>Aravalli) Extracted number: 63 
+2021-09-28 1632785799.7602472: 	(Foundries>Gujarat>Aravalli) Extracted number: 64 
+2021-09-28 1632785802.8862352: 	(Foundries>Gujarat>Aravalli) Extracted number: 65 
+2021-09-28 1632785804.6224473: 	(Foundries>Gujarat>Aravalli) Extracted number: 66 
+2021-09-28 1632785807.7647622: 	(Foundries>Gujarat>Aravalli) Extracted number: 67 
+2021-09-28 1632785809.5827847: 	(Foundries>Gujarat>Aravalli) Extracted number: 68 
+2021-09-28 1632785809.999673: 	(Foundries>Gujarat>Aravalli) PAGE: 5 
+-----------------------
+
+2021-09-28 1632785814.9549499: 	(Foundries>Gujarat>Aravalli) Extracted number: 69 
+2021-09-28 1632785816.7474253: 	(Foundries>Gujarat>Aravalli) Extracted number: 70 
+2021-09-28 1632785818.4618733: 	(Foundries>Gujarat>Aravalli) Extracted number: 71 
+2021-09-28 1632785820.1982627: 	(Foundries>Gujarat>Aravalli) Extracted number: 72 
+2021-09-28 1632785823.8231387: 	(Foundries>Gujarat>Aravalli) Extracted number: 73 
+2021-09-28 1632785825.5935948: 	(Foundries>Gujarat>Aravalli) Extracted number: 74 
+2021-09-28 1632785827.330561: 	(Foundries>Gujarat>Aravalli) Extracted number: 75 
+2021-09-28 1632785829.030879: 	(Foundries>Gujarat>Aravalli) Extracted number: 76 
+2021-09-28 1632785830.802688: 	(Foundries>Gujarat>Aravalli) Extracted number: 77 
+2021-09-28 1632785833.8956125: 	(Foundries>Gujarat>Aravalli) Extracted number: 78 
+2021-09-28 1632785836.882922: 	(Foundries>Gujarat>Aravalli) Extracted number: 79 
+2021-09-28 1632785840.0204759: 	(Foundries>Gujarat>Aravalli) Extracted number: 80 
+2021-09-28 1632785843.059293: 	(Foundries>Gujarat>Aravalli) Extracted number: 81 
+2021-09-28 1632785846.7177048: 	(Foundries>Gujarat>Aravalli) Extracted number: 82 
+2021-09-28 1632785849.785137: 	(Foundries>Gujarat>Aravalli) Extracted number: 83 
+2021-09-28 1632785851.5369723: 	(Foundries>Gujarat>Aravalli) Extracted number: 84 
+2021-09-28 1632785853.3344798: 	(Foundries>Gujarat>Aravalli) Extracted number: 85 
+2021-09-28 1632785855.0861735: 	(Foundries>Gujarat>Aravalli) Extracted number: 86 
+2021-09-28 1632785858.2034068: 	(Foundries>Gujarat>Aravalli) Extracted number: 87 
+2021-09-28 1632785859.9692595: 	(Foundries>Gujarat>Aravalli) Extracted number: 88 
+2021-09-28 1632785860.308353: 	(Foundries>Gujarat>Aravalli) PAGE: 6 
+-----------------------
+
+2021-09-28 1632785869.663363: 	(Foundries>Gujarat>Aravalli) Extracted number: 89 
+2021-09-28 1632785871.581128: 	(Foundries>Gujarat>Aravalli) Extracted number: 90 
+2021-09-28 1632785873.3315084: 	(Foundries>Gujarat>Aravalli) Extracted number: 91 
+2021-09-28 1632785875.0727098: 	(Foundries>Gujarat>Aravalli) Extracted number: 92 
+2021-09-28 1632785876.900079: 	(Foundries>Gujarat>Aravalli) Extracted number: 93 
+2021-09-28 1632785879.9432964: 	(Foundries>Gujarat>Aravalli) Extracted number: 94 
+2021-09-28 1632785881.6587427: 	(Foundries>Gujarat>Aravalli) Extracted number: 95 
+2021-09-28 1632785884.7415383: 	(Foundries>Gujarat>Aravalli) Extracted number: 96 
+2021-09-28 1632785886.505663: 	(Foundries>Gujarat>Aravalli) Extracted number: 97 
+2021-09-28 1632785888.4917765: 	(Foundries>Gujarat>Aravalli) Extracted number: 98 
+2021-09-28 1632785891.5486956: 	(Foundries>Gujarat>Aravalli) Extracted number: 99 
+2021-09-28 1632785894.6605783: 	(Foundries>Gujarat>Aravalli) Extracted number: 100 
+2021-09-28 1632785896.3765671: 	(Foundries>Gujarat>Aravalli) Extracted number: 101 
+2021-09-28 1632785898.1628227: 	(Foundries>Gujarat>Aravalli) Extracted number: 102 
+2021-09-28 1632785899.901738: 	(Foundries>Gujarat>Aravalli) Extracted number: 103 
+2021-09-28 1632785901.6819263: 	(Foundries>Gujarat>Aravalli) Extracted number: 104 
+2021-09-28 1632785903.4027078: 	(Foundries>Gujarat>Aravalli) Extracted number: 105 
+2021-09-28 1632785905.1141076: 	(Foundries>Gujarat>Aravalli) Extracted number: 106 
+2021-09-28 1632785906.9084344: 	(Foundries>Gujarat>Aravalli) Extracted number: 107 
+2021-09-28 1632785907.2335646: 	(Foundries>Gujarat>Aravalli) PAGE: 7 
+-----------------------
+
+2021-09-28 1632785912.2590523: 	(Foundries>Gujarat>Aravalli) Extracted number: 108 
+2021-09-28 1632785914.1107445: 	(Foundries>Gujarat>Aravalli) Extracted number: 109 
+2021-09-28 1632785917.3047836: 	(Foundries>Gujarat>Aravalli) Extracted number: 110 
+2021-09-28 1632785919.0518057: 	(Foundries>Gujarat>Aravalli) Extracted number: 111 
+2021-09-28 1632785922.240774: 	(Foundries>Gujarat>Aravalli) Extracted number: 112 
+2021-09-28 1632785923.9944053: 	(Foundries>Gujarat>Aravalli) Extracted number: 113 
+2021-09-28 1632785925.7296238: 	(Foundries>Gujarat>Aravalli) Extracted number: 114 
+2021-09-28 1632785929.4349492: 	(Foundries>Gujarat>Aravalli) Extracted number: 115 
+2021-09-28 1632785931.190159: 	(Foundries>Gujarat>Aravalli) Extracted number: 116 
+2021-09-28 1632785932.9643648: 	(Foundries>Gujarat>Aravalli) Extracted number: 117 
+2021-09-28 1632785934.780178: 	(Foundries>Gujarat>Aravalli) Extracted number: 118 
+2021-09-28 1632785936.5063949: 	(Foundries>Gujarat>Aravalli) Extracted number: 119 
+2021-09-28 1632785940.2444763: 	(Foundries>Gujarat>Aravalli) Extracted number: 120 
+2021-09-28 1632785941.541669: 	(Foundries>Gujarat>Aravalli) Extracted number: 121 
+2021-09-28 1632785943.3341706: 	(Foundries>Gujarat>Aravalli) Extracted number: 122 
+2021-09-28 1632785945.0522695: 	(Foundries>Gujarat>Aravalli) Extracted number: 123 
+2021-09-28 1632785946.8038425: 	(Foundries>Gujarat>Aravalli) Extracted number: 124 
+2021-09-28 1632785948.589789: 	(Foundries>Gujarat>Aravalli) Extracted number: 125 
+2021-09-28 1632785950.432304: 	(Foundries>Gujarat>Aravalli) Extracted number: 126 
+2021-09-28 1632785953.4969978: 	(Foundries>Gujarat>Aravalli) Extracted number: 127 
+2021-09-28 1632785953.8719947: 	(Foundries>Gujarat>Aravalli) PAGE: 8 
+-----------------------
+
+2021-09-28 1632785958.8234403: 	(Foundries>Gujarat>Aravalli) Extracted number: 128 
+2021-09-28 1632785960.6317296: 	(Foundries>Gujarat>Aravalli) Extracted number: 129 
+2021-09-28 1632785962.3796296: 	(Foundries>Gujarat>Aravalli) Extracted number: 130 
+2021-09-28 1632785966.0413718: 	(Foundries>Gujarat>Aravalli) Extracted number: 131 
+2021-09-28 1632785967.8428533: 	(Foundries>Gujarat>Aravalli) Extracted number: 132 
+2021-09-28 1632785969.66393: 	(Foundries>Gujarat>Aravalli) Extracted number: 133 
+2021-09-28 1632785971.5319412: 	(Foundries>Gujarat>Aravalli) Extracted number: 134 
+2021-09-28 1632785975.2361534: 	(Foundries>Gujarat>Aravalli) Extracted number: 135 
+2021-09-28 1632785977.0442054: 	(Foundries>Gujarat>Aravalli) Extracted number: 136 
+2021-09-28 1632785978.752462: 	(Foundries>Gujarat>Aravalli) Extracted number: 137 
+2021-09-28 1632785981.7333581: 	(Foundries>Gujarat>Aravalli) Extracted number: 138 
+2021-09-28 1632785982.9693751: 	(Foundries>Gujarat>Aravalli) Extracted number: 139 
+2021-09-28 1632785984.77721: 	(Foundries>Gujarat>Aravalli) Extracted number: 140 
+2021-09-28 1632785986.509278: 	(Foundries>Gujarat>Aravalli) Extracted number: 141 
+2021-09-28 1632785990.1039424: 	(Foundries>Gujarat>Aravalli) Extracted number: 142 
+2021-09-28 1632785991.8399224: 	(Foundries>Gujarat>Aravalli) Extracted number: 143 
+2021-09-28 1632785993.6194222: 	(Foundries>Gujarat>Aravalli) Extracted number: 144 
+2021-09-28 1632785996.742141: 	(Foundries>Gujarat>Aravalli) Extracted number: 145 
+2021-09-28 1632785997.0842404: 	(Foundries>Gujarat>Aravalli) PAGE: 9 
+-----------------------
+
+2021-09-28 1632786002.0519314: 	(Foundries>Gujarat>Aravalli) Extracted number: 146 
+2021-09-28 1632786003.838926: 	(Foundries>Gujarat>Aravalli) Extracted number: 147 
+2021-09-28 1632786007.0242274: 	(Foundries>Gujarat>Aravalli) Extracted number: 148 
+2021-09-28 1632786008.7583528: 	(Foundries>Gujarat>Aravalli) Extracted number: 149 
+2021-09-28 1632786010.5280044: 	(Foundries>Gujarat>Aravalli) Extracted number: 150 
+2021-09-28 1632786012.270862: 	(Foundries>Gujarat>Aravalli) Extracted number: 151 
+2021-09-28 1632786014.0340817: 	(Foundries>Gujarat>Aravalli) Extracted number: 152 
+2021-09-28 1632786015.8991222: 	(Foundries>Gujarat>Aravalli) Extracted number: 153 
+2021-09-28 1632786017.6384668: 	(Foundries>Gujarat>Aravalli) Extracted number: 154 
+2021-09-28 1632786027.7204666: 	(Foundries>Gujarat>Aravalli) Extracted number: 155 
+2021-09-28 1632786035.9390588: 	(Foundries>Gujarat>Aravalli) **** Failed to extract element: 9 ****
