@@ -465,8 +465,8 @@ for query in perseverance:
                     #We are at V4
                     #pleasewait = WebDriverWait(browser, 10).until(EC.element_to_be_clickable(
                         #(By.XPATH, '//*[@id="rl_ist0"]/div/div[2]/div/table/tbody/tr/td[12]/a')))
-                    #Fuck, all of a suffed this is able to find the element, check hte below line, xpath is the same in the below and the above line
-                    #NO FUCKING IDEA
+                    
+          
 
 
                     #pleasewait = WebDriverWait(browser, 10).unitl(EC.element_to_be_clickable((By.XPATH, '//*[@id="rl_ist0"]/div/div[2]/div/table/tbody/tr/td[12]')))
